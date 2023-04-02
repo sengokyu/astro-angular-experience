@@ -9,21 +9,9 @@
     "preview": "astro preview",
     "astro": "astro"
   },
-  "dependencies": {
+  "devDependencies": {
     "@analogjs/astro-angular": "^0.1.0-beta.7",
-    "@angular-devkit/build-angular": "^16.0.0-next.0",
-    "@angular/animations": "^16.0.0-next.0",
-    "@angular/common": "^16.0.0-next.0",
-    "@angular/compiler": "^16.0.0-next.0",
-    "@angular/compiler-cli": "^16.0.0-next.0",
-    "@angular/core": "^16.0.0-next.0",
-    "@angular/language-service": "^16.0.0-next.0",
-    "@angular/platform-browser": "^16.0.0-next.0",
-    "@angular/platform-browser-dynamic": "^16.0.0-next.0",
-    "@angular/platform-server": "^16.0.0-next.0",
-    "astro": "^2.1.9",
-    "rxjs": "^7.8.0",
-    "tslib": "^2.5.0",
-    "zone.js": "^0.11.8"
+    "@angular/cli": "^15.2.4",
+    "astro": "^2.1.9"
   }
 }
